@@ -1,8 +1,10 @@
 # gamelad
 
-A (work-in-progress) editor theme limited to the greens of the original Nintendo Game Boy. Created using [the thTheme-Editor app](https://tmtheme-editor.herokuapp.com/).
+An RStudio theme (rstheme file) limited to the greens of the original Nintendo Game Boy. Created using [the thTheme-Editor app](https://tmtheme-editor.herokuapp.com/) and {rstudioapi}.
 
-To install the theme for RStudio, you can run:
+To install the theme for RStudio, download it and add it via _Tools_ > _Global options..._ > _Appearance_ > _Add..._
+
+Or you can run:
 
 ``` r
 theme_url <- 
